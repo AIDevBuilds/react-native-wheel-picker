@@ -1,3 +1,8 @@
+> This is a fork of [GregFrench/react-native-wheel-picker](https://github.com/GregFrench/react-native-wheel-picker),
+> which is itself a fork of [lesliesam/react-native-wheel-picker](https://github.com/lesliesam/react-native-wheel-picker).
+> The code belongs to its original authors. `package.json` declares the MIT licence.
+> Please use and report issues upstream.
+
 # React Native Wheel Picker
 [![npm version](http://img.shields.io/npm/v/@gregfrench/react-native-wheel-picker.svg?style=flat-square)](https://www.npmjs.com/package/@gregfrench/react-native-wheel-picker "View this project on npm")
 [![npm version](http://img.shields.io/npm/dm/@gregfrench/react-native-wheel-picker.svg?style=flat-square)](https://www.npmjs.com/package/@gregfrench/react-native-wheel-picker "View this project on npm")
